@@ -1,2 +1,2 @@
-# 1-VEB-sayt
-HTML code
+# 1-WEB-sayt
+HTML, CSS code
